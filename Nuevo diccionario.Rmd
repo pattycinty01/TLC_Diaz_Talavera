@@ -1,0 +1,22 @@
+---
+title: "Nuevo diccionario"
+author: "Cinthya Talavera"
+date: "2023-10-07"
+output: html_document
+---
+Índice de democracia de cada país de latinoamérica y el Caribe: 
+
+#I_Democracia
+democracia débil
+medios democráticos
+régimen autoritario
+
+#¿Existe un tratado de Libre Comercio con China?: TLC
+si
+No
+
+#Densidad poblacional de cada país de latinoamérica y el Caribe:
+Den_poblacional
+
+#PBI anual en dólares de cada país de latinoamérica y el Caribe: 
+PBI
