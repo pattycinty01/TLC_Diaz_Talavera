@@ -1,0 +1,34 @@
+---
+title: "Diccionario de datos"
+author: "Cinthya Talavera"
+date: "2023-10-07"
+output: html_document
+---
+TEMA DE INVESTIGACIÓN:
+
+El constante crecimiento económico que China ha invertido a través de los años por medio de una participación activa en el comercio mundial, logró ubicarla como uno de los mejores países posicionados dentro de un marco económico de cadenas globales. Lo que la convierte en un excelente punto de análisis al evaluar su espectro de influencia que ha ido marcando en una zona geográfica como lo es América Latina y el Caribe al tener un gran número de inversiones chinas dentro de sus territorios. Por lo que es realmente relevante el examinar el impacto, que como tal, China ha generado en la región en los que denotan los efectos directos e indirectos que se van produciendo dentro de mercados locales de los países de América Latina, denotando su fuente principal que lo caracteriza, el proveer y extraer manufactura. Esto es importante para la disciplina de las Relaciones Internacionales porque es una forma de analizar cómo se está posicionando China como una nueva superpotencia a través de diferentes variables. Es por ello, que hemos decidido enfocarnos en los tratados de libre comercio que mantiene China con los países de la región de América Latina y el Caribe. En base a ello, hemos planteado la siguiente pregunta de investigación ¿Qué factores influencian la integración de los tratados de libre comercio entre China y América Latina?
+
+Variable dependiente: 
+#Tratados de libre comercio (TLC): 
+La variable dependiente busca explicar la relación entre China y los países de Latinoamérica y el Caribe por medio de acuerdos comerciales. Analizar esta variable es importante porque  los TLCs podrían demostrar la mayor inserción de China en los países de la región. Además demuestran como China busca posicionarse comercialmente como nueva superpotencia.
+#SI
+#NO
+
+Variables independientes:
+#PBI anual (PBI):
+Es importante analizar esta variable debido a que China, al realizar las exportaciones depende de la condición del Producto Bruto Interno per cápita de cada país. Esto se debe a que este expresa el potencial económico y representa el valor de los bienes y servicios de cada país. 
+
+
+
+#Índice de democracia (I_Democracia):
+Es importante analizar el índice de democracia de cada país de Latinoamérica debido a que esto puede influenciar en la apertura hacía la firma de un TLC con China, ya que ello puede generar confianza o desconfianza al país exportador o importador.  Esto se debe a que este índice podría reflejar la estabilidad de cada país.
+#Democracia debil
+#Democracia media
+#Regimen autoritario
+
+#Crecimiento económico del país (Crec_Economico):
+Es importante realizar un análisis a partir del crecimiento que cada país de América Latina y el Caribe obtuvo en el aspecto de acuerdos comerciales, debido a que conforme se firme un TLC entre China y una país de América Latina mejor impulso del crecimiento del PIB anual se daría en este. Esto se debe a que atraerá una mayor cantidad de inversión extranjera y la del propio gigante China como lo ha ido realizando por años con sus miembros firmantes del TLC.
+
+Variable de control:
+#Densidad Poblacional (Den_Poblacional): 
+Es importante analizar la densidad de la población de cada país de Latinoamérica debido a que esta define la demanda de bienes y servicios importados. Además, se podría dar una relación directa, ya que entre más grande es la población, mayor puede ser la probabilidad de que exista un Tratado de Libre Comerico.
